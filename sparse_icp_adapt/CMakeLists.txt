@@ -1,0 +1,5 @@
+project(sparseicp)
+cmake_minimum_required(VERSION 2.8 FATAL_ERROR)
+
+add_executable(sparseicp main.cpp)
+
